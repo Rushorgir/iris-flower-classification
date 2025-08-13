@@ -47,7 +47,7 @@ The model is trained using a **Decision Tree Classifier**, achieving **100% accu
 ## 🚀 How to Run
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/iris-flower-classification.git
+git clone https://github.com/Rushorgir/iris-flower-classification
 cd iris-flower-classification
 
 # Install dependencies
