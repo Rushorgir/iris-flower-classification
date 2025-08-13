@@ -1,9 +1,5 @@
 <!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Iris_versicolor_3.jpg" width="100%" alt="Iris Flower Banner">
-</p>
-
-<h1 align="center">🌸 Iris Flower Classification</h1>
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:001F1F,100:00FFD1&height=200&section=header&text=🌸%20Iris%20Flower%20Classification&fontSize=40&fontColor=00FFD1&animation=fadeIn&fontAlignY=35)
 
 <!-- ANIMATED TAGLINE -->
 <p align="center">
@@ -78,4 +74,3 @@ python iris_classification.py
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=100&section=footer"/>
 </p>
-```
