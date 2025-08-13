@@ -1,5 +1,5 @@
 <!-- HEADER BANNER -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:001F1F,100:00FFD1&height=200&section=header&text=🌸%20Iris%20Flower%20Classification&fontSize=40&fontColor=00FFD1&animation=fadeIn&fontAlignY=35)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:ff99cc,100:ff3399&height=200&section=header&text=🌸%20Iris%20Flower%20Classification&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 <!-- ANIMATED TAGLINE -->
 <p align="center">
