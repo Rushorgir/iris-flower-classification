@@ -72,5 +72,5 @@ python iris_classification.py
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff99cc,100:ff3399&height=100&section=footer"/>
 </p>
