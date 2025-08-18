@@ -8,13 +8,12 @@
 
 <!-- TECH BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-yellow?style=flat-square&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-orange?style=flat-square&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Matplotlib-Visualization-green?style=flat-square&logo=matplotlib&logoColor=white">
-  <img src="https://img.shields.io/badge/Seaborn-Statistical%20Plots-teal?style=flat-square&logo=seaborn&logoColor=white">
-  <img src="https://img.shields.io/badge/Scikit--Learn-ML%20Library-red?style=flat-square&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
 </p>
 
 ---
